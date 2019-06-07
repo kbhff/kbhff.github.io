@@ -3,3 +3,27 @@
 ---
 
 @import "minima";
+
+.wrapper {
+	max-width: 1000px;
+}
+
+$logo-height: 215px;
+
+#header-images {
+	height: $logo-height;
+	margin-bottom: 1em;
+	overflow:hidden
+}
+
+#bannerimg {
+	height: $logo-height;
+	object-fit: cover;
+}
+
+#logo {
+	position: relative;
+	top: -$logo-height;
+	margin-bottom: -$logo-height;
+}
+
