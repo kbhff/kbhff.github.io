@@ -16,9 +16,7 @@
 title: Københavns Fødevarefælledsskab
 email: info@kbhff.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  Københavns Fødevarefællesskab er en medlemsejet og -drevet indkøbsforening,
-  der fokuserer på at tilbyde økologiske, velsmagende, lokalt producerede og
-  bæredygtige fødevarer i et sæsonbaseret udbud til priser, hvor alle kan være med.
+  Københavns Fødevarefællesskab er en medlemsejet og -drevet indkøbsforening.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kbhff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
