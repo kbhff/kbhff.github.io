@@ -2,6 +2,7 @@
 layout: post
 title: "Indsamling til fremtidens Fødevarefællesskab"
 date: 2019-05-29
+author: Alexander
 categories: nyhed
 ---
 
