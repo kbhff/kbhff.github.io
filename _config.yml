@@ -24,7 +24,7 @@ url: "http://kbhff.github.io" # the base hostname & protocol for your site, e.g.
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
